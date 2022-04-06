@@ -1,0 +1,15 @@
+Atlantic Time (Canada): 4
+Quito: 5
+Buenos Aires: 1
+None: 34
+Pacific Time (US & Canada): 8
+Eastern Time (US & Canada): 14
+Casablanca: 1
+Central Time (US & Canada): 18
+Mountain Time (US & Canada): 5
+Hawaii: 3
+Brasilia: 1
+Santiago: 1
+Arizona: 3
+Monterrey: 1
+Baghdad: 1

@@ -1,0 +1,3 @@
+#ignore sample tweets json file in 04-twitter-tweets folder
+/Users/inkybo/GitHub/Scripting-Classwork/04-twitter-tweets-Inkybo-master/tweets.json 
+.DS_Store
